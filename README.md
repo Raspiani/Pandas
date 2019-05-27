@@ -7,3 +7,4 @@ Berikut langkah-langkah yang dapat dilakukan dengan modul pandas di python yaitu
 3. Pandas - Cara Menggabungkan Multiple Baris.ipynb 
 4. Pandas - Concatenate Beberapa Baris (Menggabungkan)
 5. Pandas - iloc
+6. Pandas - Create a Series in Python
