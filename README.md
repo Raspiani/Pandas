@@ -10,3 +10,5 @@ Berikut langkah-langkah yang dapat dilakukan dengan modul pandas di python yaitu
 6. Pandas - Create a Series in Python
 7. Pandas - Access the elements of a Series in python
 8. Pandas - Format integer column of Dataframe in Python
+9. Pandas - Head and tail function in Python (Get First N Rows & Last N Rows)
+10. Pandas - Statistika Deskriptif
