@@ -12,3 +12,5 @@ Berikut langkah-langkah yang dapat dilakukan dengan modul pandas di python yaitu
 8. Pandas - Format integer column of Dataframe in Python
 9. Pandas - Head and tail function in Python (Get First N Rows & Last N Rows)
 10. Pandas - Statistika Deskriptif
+11. Pandas - How to join (merge) data frames (inner, outer, right, left join)
+12. Pandas - Rename the column of dataframe
