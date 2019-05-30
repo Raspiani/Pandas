@@ -14,3 +14,12 @@ Berikut langkah-langkah yang dapat dilakukan dengan modul pandas di python yaitu
 10. Pandas - Statistika Deskriptif
 11. Pandas - How to join (merge) data frames (inner, outer, right, left join)
 12. Pandas - Rename the column of dataframe
+13. Pandas - Assign atau menambahkan kolom baru ke suatu dataFrame
+14. Pandas - Column Bind (Menggabungkan kolom) atau Concatenate columns
+15. Pandas - Cross tab (Cross Table)
+16. Pandas - Drop atau menghapus baris berdasarkan kondisi
+17. Pandas - Menemukan baris yang sama dari suatu dataFrame
+18. Pandas - Menghapus atau menghilangkan baris yang sama dari suatu dataFrame
+19. Pandas - Rank the dataFrame (Min, Max, dense dan rank by group)
+20. Pandas - Reindex or change order of row and column
+21. Pandas - Row Bind (Menggabungkan Berdasarkan Baris), Append atau Concatenate rows
