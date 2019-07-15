@@ -23,3 +23,4 @@ Berikut langkah-langkah yang dapat dilakukan dengan modul pandas di python yaitu
 19. Pandas - Rank the dataFrame (Min, Max, dense dan rank by group)
 20. Pandas - Reindex or change order of row and column
 21. Pandas - Row Bind (Menggabungkan Berdasarkan Baris), Append atau Concatenate rows
+22. Pandas - Membuat DataFrame
