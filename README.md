@@ -25,3 +25,4 @@ Berikut langkah-langkah yang dapat dilakukan dengan modul pandas di python yaitu
 21. Pandas - Row Bind (Menggabungkan Berdasarkan Baris), Append atau Concatenate rows
 22. Pandas - Membuat DataFrame
 23. Pandas - loc
+24. Pandas - Penjumlahan dan Reverse (Invers)
