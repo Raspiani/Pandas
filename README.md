@@ -26,3 +26,4 @@ Berikut langkah-langkah yang dapat dilakukan dengan modul pandas di python yaitu
 22. Pandas - Membuat DataFrame
 23. Pandas - loc
 24. Pandas - Penjumlahan dan Reverse (Invers)
+25. Pandas - Drop duplicate rows in Pandas based on column value
